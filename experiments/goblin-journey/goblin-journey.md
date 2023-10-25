@@ -251,6 +251,10 @@ Let choose a random seed
 
 ## Final
 
+#### 50879
+
+![](30-goblin_journey-50879.png)
+
 ```
 Intricate Voxel Rendering |
 Landscape orientation |
@@ -268,5 +272,122 @@ A wild beast watches from behind the group in the stealth of the shadows behind 
 The beast is covered by a myriad of glowing eyes, it has various animated tails, and spiky fur that radiates and leaves a trail of darkness |
 All goblins wear similar clothing, but each has a unique style that sets them apart. |
 The viewer observes the scene from a safe distance, capturing the front view of the group and the lurking beast behind them.
+```
+
+#### 87621
 
 ```
+Intricate Voxel Rendering |
+Landscape orientation |
+Panoramic view of a swamp (mystical glow) with towering mushrooms and strange flora (spiral vines, bizarre cactuses) |
+At twilight hour |
+A slender moon and geometric constellations shine dimly in the obscure sky |
+Mushrooms are shaped like pine cones and fluid organic shapes. Each is a distinct color and species |
+A group of 4 tall nomadic red goblins are traveling back to their village |
+Dark, gloomy hues dominate the scene but are punctuated by vibrant warm colors. |
+The goblin leader walks with a keen eye out for threats, while the others seem more tense, engaged in conversation and nervously laughing. |
+All goblins wear similar clothing, but each has a unique style that sets them apart. |
+The leader is wearing a crown of various long decorative feathers |
+The other goblins wear distinct gloves, scarves, and hats. Some goblins are barefoot |
+A strange BEAST stalks the group in stealth, peaking from shadows seen behind a mushroom |
+The BEAST is covered by a myriad of glowing eyes, and  it has various animated tails, and spiky fur that radiates and leaves an extended trail of darkness |
+The viewer observes the scene from a safe distance, capturing the front view of the group and the lurking beast behind them. 
+```
+
+![](31-goblin_journey-87621.png)
+
+#### 58243
+
+```
+Intricate Voxel Rendering |
+Landscape orientation |
+Panoramic view of a swamp (mystical glow) with towering mushrooms and strange flora (spiral vines, bizarre cactuses) |
+At twilight hour |
+A slender moon and geometric constellations shine dimly in the obscure sky |
+Mushrooms are shaped like pine cones and fluid organic shapes. Each is a distinct color and species |
+A group of 4 tall nomadic red goblins are traveling back to their village |
+Dark, gloomy hues dominate the scene but are punctuated by vibrant warm colors. |
+The goblin leader walks with a keen eye out for threats, while the others seem more tense, engaged in conversation and nervously laughing. |
+All goblins wear similar clothing, but each has a unique style that sets them apart. |
+The leader is wearing a crown of various long decorative feathers |
+The other goblins wear distinct gloves, scarves, and hats. Some goblins are barefoot |
+In the distance, a strange CREATURE stalks the goblins, peaking from shadows seen behind a mushroom |
+The CREATURE is covered in a myriad of glowing eyes, and it has various animated tails, and spiky fur that radiates and leaves an extended trail of darkness |
+The viewer observes the scene from a safe distance, capturing the goblins and the CREATURE. 
+```
+
+![](32-goblin_journey-58243.png)
+
+![](33-goblin_journey.png)
+
+![](34-goblin_journey.png)
+
+![](35-goblin_journey.png)
+
+```
+Intricate Voxel Rendering |
+Landscape orientation |
+Panoramic view of a swamp (mystical glow) with towering mushrooms and strange flora (spiral vines, bizarre cactuses) |
+At twilight hour |
+A slender moon and geometric constellations shine dimly in the obscure sky |
+Mushrooms are shaped like pine cones and fluid organic shapes. Each is a distinct color and species |
+A group of 4 tall nomadic red goblins are traveling back to their village |
+Dark, gloomy hues dominate the scene but are punctuated by vibrant warm colors. |
+In the distance, a strange CREATURE stalks the goblins, peaking from shadows seen behind a mushroom |
+The goblin leader walks with a keen eye out for threats, while the others seem more tense, engaged in conversation and nervously laughing. |
+All goblins wear similar clothing, but each has a unique style that sets them apart. |
+The leader is wearing a crown of various long decorative feathers |
+The other goblins wear distinct gloves, scarves, and hats. Some goblins are barefoot |
+The CREATURE is covered in a myriad of glowing eyes, and it has various animated tails, and spiky fur that radiates and leaves an extended trail of darkness
+```
+
+![](37-goblin_journey-12351.png)
+
+
+```
+Intricate Voxel Rendering |
+Landscape orientation |
+Panoramic view of a swamp (mystical glow) with towering mushrooms and strange flora (spiral vines, bizarre cactuses) |
+At midnight hour |
+A slender moon and geometric constellations shine dimly in the obscure sky |
+Mushrooms are shaped like pine cones and fluid organic shapes. Each is a distinct color and species |
+A group of 4 tall nomadic red goblins are traveling back to their village |
+In the distance, an otherworldly CREATURE stalks the goblins, atop a mushroom |
+Dark, gloomy hues dominate the scene but are punctuated by vibrant warm colors. |
+The goblin leader walks with a keen eye out for threats, while the others seem more tense, engaged in conversation and nervously laughing. |
+All goblins wear similar clothing, but each has a unique style that sets them apart. |
+The leader is wearing a crown of various long decorative feathers |
+The other goblins wear distinct gloves, scarves, and hats. Some goblins are barefoot |
+The CREATURE is covered in a myriad of glowing eyes, and it has various animated tails, and spiky fur that radiates and leaves an extended trail of darkness
+```
+
+![](38-goblin_journey-65432.png)
+
+![](39-goblin_journey.png)
+
+![](40-goblin_journey.png)
+
+![](41-goblin_journey.png)
+
+![](42-goblin_journey.png)
+
+
+```
+Intricate Voxel Rendering |
+Landscape orientation |
+Panoramic view of a swamp (mystical glow) with towering mushrooms and strange flora (spiral vines, bizarre cactuses) and fauna (frogs, snakes, crows) |
+At midnight hour |
+A slender moon and geometric constellations shine dimly in the obscure sky |
+Mushrooms are shaped like pine cones and fluid organic shapes. Each is a distinct color and species |
+A group of 4 tall nomadic red goblins are traveling back to their village |
+In the distance, an otherworldly wolf stalks the goblins, atop a mushroom |
+Dark, gloomy hues dominate the scene but are punctuated by vibrant warm colors. |
+The goblin leader walks with a keen eye out for threats, while the others seem more tense, engaged in conversation and nervously laughing. |
+All goblins wear similar clothing, but each has a unique style that sets them apart. |
+The leader is wearing a crown of various long decorative feathers |
+The other goblins wear distinct gloves, scarves, and hats. Some goblins are barefoot |
+The wolf is covered in a myriad of glowing eyes, and it has various animated tails, and spiky fur that radiates and leaves an extended trail of darkness
+```
+![](43-goblin_journey.png)
+
+![](44-goblin_journey.png)
