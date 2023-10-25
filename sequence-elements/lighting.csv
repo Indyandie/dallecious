@@ -1,0 +1,40 @@
+Category,Lighting,Example,Level
+Directional,Front Lighting,Sunlight illuminating a person's face,Beginner
+Directional,Side Lighting,Sunlight casting shadows on one side of a building,Beginner
+Directional,Back Lighting,Person standing against the sun, creating a silhouette,Intermediate
+Directional,Top Lighting,Direct overhead light on a subject, like at noon,Intermediate
+Directional,Under Lighting,Light coming from below, casting eerie shadows on a face,Intermediate
+Directional,Crepuscular Rays,Sunbeams piercing through gaps in clouds or trees,Intermediate
+Quality,Soft/Diffused Light,Overcast sky evenly lighting a landscape,Beginner
+Quality,Soft/Diffused Light,Soft morning light filtering through trees,Intermediate
+Quality,Soft/Diffused Light,Diffused overcast lighting for even tones,Intermediate
+Quality,Hard/Direct Light,Spotlight on a stage performer,Intermediate
+Quality,Hard/Direct Light,Harsh midday sun casting sharp shadows,Advanced
+Time-Based,Golden Hour,Warm sunlight during early evening or morning,Beginner
+Time-Based,Golden Hour,Golden hour glow lending a warm ambiance,Intermediate
+Time-Based,Twilight Hour,Soft purplish-blue light after sunset,Beginner
+Time-Based,Blue Hour,Soft blue light just after sunset or before sunrise,Beginner
+Time-Based,Midday Light,Harsh sunlight at noon in an open field,Intermediate
+Time-Based,Nighttime,Streetlights illuminating a quiet city street,Advanced
+Time-Based,Nighttime,Moonlit night with contrasting shadows,Advanced
+Temperature,Warm (e.g., golden sunlight),Golden sunlight through autumn leaves,Beginner
+Temperature,Neutral (e.g., midday sun),Midday light in a park,Beginner
+Temperature,Cool (e.g., overcast conditions),Shade under a tree on a sunny day,Intermediate
+Source,Natural Light (sun, moon),Moonlight on a serene lake,Beginner
+Source,Artificial Light (e.g., studio lights),Studio lighting in a portrait shoot,Intermediate
+Source,Glowstick Lighting,Soft, eerie glows illuminating a dark cave,Intermediate
+Dynamic,Kinetic Lights (e.g., moving head lights),Stage lights during a concert,Advanced
+Dynamic,Flickering Lights (e.g., campfire),Fireflies in a night forest,Intermediate
+Dynamic,Accent Lighting,Spotlight highlighting a specific object in a room,Advanced
+Environmental,Ambient Light,Soft light in a room from an overcast sky outside,Beginner
+Environmental,Practical Lights (e.g., lamps),Lamp illuminating a cozy reading nook,Intermediate
+Environmental,Reflective Light (light bouncing off surfaces),Sunlight reflecting off water, lighting up a boat,Advanced
+Effects,Silhouette,Bird flying against a bright sky at dusk,Intermediate
+Effects,Spotlight,Single dancer highlighted on a dark stage,Intermediate
+Effects,Spotlight,Spotlight focus on a key object or person,Intermediate
+Effects,Backlight,Dramatic backlight creating silhouettes,Advanced
+Effects,Neon Lights,Neon lights illuminating a dark alley,Advanced
+Effects,Candlelight,Candlelit ambiance in an ancient crypt,Advanced
+Effects,Multiple Sources,Complex interplay of multiple light sources in a futuristic cityscape,Advanced
+Effects,Colored Gels,Red light on a subject for a dramatic mood,Advanced
+Effects,Fog/Haze with Beams,Light beams cutting through fog in a forest,Advanced
