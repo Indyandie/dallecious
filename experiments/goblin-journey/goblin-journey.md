@@ -43,13 +43,13 @@ The group of wear similar clothes, each with unique attire
 
 ![](04-goblin_journey-44556.png)
 
-### Exact Prompt
+### 89123 (exact prompt)
 
-#### 
+![](09-goblin_journey-89123.png)
 
+## Second Prompt
 
-
-
+```
 3d Voxel Rendering |
 Landscape full view |
 a swamp (mystical glow) with towering mushrooms and strange flora (spiral vines, bizarre cactuses) |
@@ -62,6 +62,7 @@ A wild beast watch from the stealth shadows |
 The beast is covered by glow eyes and spikey fur that radiates darkness |
 All goblins wear similar clothing, but each has a unique style that sets them apart. |
 The viewer observes the scene from a distance, capturing the entire front facing group and the lurking beast. 
+```
 
 #### 78901
 
@@ -87,7 +88,39 @@ The viewer observes the scene from a distance, capturing the entire front facing
 
 ![](08-goblin_journey-34567.png)
 
+### 59243 (exact prompt)
 
+![](10-goblin_journey-59243.png)
+
+### More Dalle Variant 
+
+#### 12345
+
+> A swamp bathed in a mystical glow with tall mushrooms and peculiar flora like spiral vines and odd cactuses. Four red goblins are on their way back to their village, with the leader wearing a distinct feather crown. The other goblins, donned in gloves and hats, chat apprehensively. A wild creature with luminous eyes and dark, spiky fur observes from the shadows.
+
+![](11-goblin_journey-12345.png)
+
+#### 67890
+
+> In a glowing swamp filled with towering mushrooms, spiral vines, and unique cactuses, four nomadic red goblins journey. The leader stands out with his bright feather crown, while the rest wear gloves and hats and appear engaged in a deep conversation. A beast with shining eyes and a dark fur, radiating an aura of darkness, spies on them.
+
+![](12-goblin_journey-67890.png)
+
+#### 23456
+
+> A luminous swamp terrain with tall mushrooms, twirling vines, and bizarre cactuses. Four red goblins navigate this setting, with the leader distinguished by his feather crown. The others, in gloves and hats, laugh and chat nervously. A creature with glowing eyes and emitting a dark aura lurks nearby.
+
+![](13-goblin_journey-23456.png)
+
+#### 78901
+
+> Amidst a swamp with a mystical aura, dotted with mushrooms, curling vines, and unique cactuses, four red goblins make their journey. The leader, adorned with a feather crown, is alert, and the others, in gloves and hats, converse animatedly. A shadowy beast with radiant eyes watches them intently.
+
+![](14-goblin_journey-78901.png)
+
+## Third Prompt
+
+```
 Complex 3d Voxel Rendering |
 Landscape view |
 a swamp (mystical glow) with towering mushrooms and strange flora (spiral vines, bizarre cactuses) |
@@ -103,7 +136,16 @@ A wild beast watches from the stealth shadows behind a mushroom |
 The beast is covered by glow eyes, has multiple wild tails, and spikey fur that radiates darkness |
 All goblins wear similar clothing, but each has a unique style that sets them apart. |
 The viewer observes the scene from a distance, capturing the entire front facing group and the lurking beast. 
+```
 
+### 45213 (exact prompt)
+
+![](15-goblin_journey-45213.png)
+
+
+## Third Prompt
+
+```
 Complex 3d Voxel Rendering |
 Landscape orientation |
 Panoramic view of a swamp (mystical glow) with towering mushrooms and strange flora (spiral vines, bizarre cactuses) |
@@ -120,3 +162,4 @@ A wild beast watches from behind the group in the stealth of shadows behind a mu
 The beast is covered by glow eyes, has multiple wild tails, and spikey fur that radiates darkness |
 All goblins wear similar clothing, but each has a unique style that sets them apart. |
 The viewer observes the scene from a distance, capturing the entire front facing group and the lurking beast. 
+```
