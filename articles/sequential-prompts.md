@@ -13,6 +13,7 @@ Creating an impactful image starts with the sequence in which details are presen
 - **Image Type/Style:** Dictates the foundational aesthetic.
 - **Image Composition/Frame:** Determines positioning and emphasis.
 - **Background/Environment:** Sets the scene's context.
+- **Lighting:** Establishes mood, depth, and focus within the environment.
 - **Major Elements/Characters:** Central focus of the imagery.
 - **Posture/Actions:** Defines dynamism and activity.
 - **Color Palette/Theme:** Influences mood and tone.
@@ -73,6 +74,23 @@ The backdrop provides context, from simple, clear spaces to detailed, ambiance-r
 - Floating islands in the sky
 - Otherworldly alien planet terrain
 - Interdimensional space with abstract geometries
+
+#### Lighting
+
+Lighting is instrumental in an image, dictating focus, setting mood, and providing depth. From the simplicity of soft ambient lighting to the complexity of intricate shadow play, understanding light can transform your visual narrative. Inspired by [Jerrod Lew](https://x.com/onwardsproject/status/1716717414363132358?s=46)
+
+##### Examples
+
+- Soft morning light filtering through trees
+- Diffused overcast lighting for even tones
+- Golden hour glow lending a warm ambiance
+- Harsh midday sun casting sharp shadows
+- Spotlight focus on a key object or person
+- Dramatic backlight creating silhouettes
+- Moonlit night with contrasting shadows
+- Neon lights illuminating a dark alley
+- Candlelit ambiance in an ancient crypt
+- Complex interplay of multiple light sources in a futuristic cityscape
 
 #### Major Elements/Characters
 
