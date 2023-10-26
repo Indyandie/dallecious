@@ -113,11 +113,6 @@ Straight-on frontal view of Tom, facing the camera
 
 ![](./img/010-tom-3931875023-1.png)
 
-- **seed:**  `2945574601`
-- **temperature:** `1.0`
-
-![](./img/011-tom-2945574601-1.png)
-
 - **seed:**  `19719203`
 - **temperature:** `1.0`
 
@@ -127,6 +122,31 @@ Straight-on frontal view of Tom, facing the camera
 - **temperature:** `1.0`
 
 ![](./img/013-tom-4191410927-1.png)
+
+- **seed:**  `2945574601`
+- **temperature:** `1.0`
+
+![](./img/011-tom-2945574601-1.png)
+
+- **temperature:** `0`
+
+![](./img/014-tom-2945574601-0.png)
+
+- **temperature:** `0.4`
+
+![](./img/015-tom-2945574601-0_4.png)
+
+- **temperature:** `0.8`
+
+![](./img/016-tom-2945574601-0_8.png)
+
+- **temperature:** `0.99`
+
+![](./img/017-tom-2945574601-0_99.png)
+
+- **temperature:** `1.0`
+
+![](./img/018-tom-2945574601-1.png)
 
 
 ### Batch 2 - Dalle
