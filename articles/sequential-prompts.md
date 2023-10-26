@@ -39,8 +39,6 @@ The style of an image not only dictates its foundational aesthetic but also sets
 - Oil painting of a stormy sea
 - Mixed-media collage with digital overlays
 
-
-
 #### Image Composition/Frame
 
 Composition dictates the positioning of elements. From close-ups that focus on intricate details to wide shots that capture vast landscapes, the composition can either spotlight or give an overview.
