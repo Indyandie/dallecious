@@ -133,6 +133,44 @@ Color Palette/Theme |
 Additional Details/Accessories |
 View/Perspective```
 
+## Segmenting/Layering
+
+Some strategies to layer prompts.
+
+### Hierarchical Descriptions
+
+Start with a broad setting and then dive into specifics. For instance:
+
+- **General:** A bustling city.
+- **Specific:** In the foreground, a woman is walking her dog. In the background, there's a tall skyscraper with a digital clock.
+
+### Sequential Prompts 
+
+You can guide DALL·E through a sequence of events or scenes by describing them in order.
+
+**Example:** A serene lakeside at dawn. As the sun rises, birds start to chirp, and a fisherman casts his line.
+
+### Contrasting Elements
+
+Describe two or more contrasting elements or scenes to give DALL·E multiple focal points.
+
+**Example:** On the left, a desert with cacti and a blazing sun. On the right, a snowy mountain peak.
+
+### Use of Punctuation
+
+Use punctuation like dashes, commas, or semicolons to separate different elements of the scene.
+
+**Example:** A park in autumn - children playing with fallen leaves, joggers on the track, a couple having a picnic.
+
+### Explicit Layering
+
+Directly instruct DALL·E to layer elements.
+
+**Example:** In the first layer, a dense forest. In the second layer, magical creatures peeking through the trees.
+
+### Multiple Iterations
+
+Start with a base prompt to get an initial image. Then, use that image as a reference and provide a new prompt to add more details or layers.
 
 ## Cascade Prompts
 
