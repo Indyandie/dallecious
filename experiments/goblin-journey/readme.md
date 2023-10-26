@@ -29,7 +29,7 @@ The group of wear similar clothes, each with unique attire
 
 > Voxel Rendering of a swamp landscape, full-length portrait. Towering mushrooms and odd flora form the backdrop. Amidst this, red goblins journey towards their village. The leader, alert and watchful, is upfront, with the others chatting animatedly. A creature hides in the shadows, watching. The goblins, while in similar clothing, showcase individual styles. The perspective is from afar, getting the entire group and the secretive beast in frame.
 
-![](02-goblin_journey-12345.png)
+![](02-goblin_journey-67890.png)
 
 #### 11223
 
