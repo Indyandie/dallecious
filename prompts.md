@@ -124,13 +124,13 @@ Effective Sequence Template for Dall-E 3 Descriptions.
 This sequence can be adapted based on the specific requirements of the image, but it serves as a general guideline for structuring detailed and effective prompts for Dall-E.;
 
 ```
-Type/Style |
-Composition/Frame |
-Background/Environment |
-Elements/Characters |
-Posture/Actions |
-Color Palette/Theme |
-Additional Details/Accessories |
+Type/Style ;
+Composition/Frame ;
+Background/Environment ;
+Elements/Characters ;
+Posture/Actions ;
+Color Palette/Theme ;
+Additional Details/Accessories ;
 View/Perspective```
 
 ## Segmenting/Layering
@@ -176,10 +176,10 @@ Start with a base prompt to get an initial image. Then, use that image as a refe
 
 > [@techhalla](https://x.com/techhalla/status/1715030023613116770?s=46)
 
-[noun] | Style | Setting | Palette | Description [noun_variants]
+[noun] ; Style ; Setting ; Palette ; Description [noun_variants]
 
 ```
-[country] | impressionism | tea party | neutral colors | bunnies hops along a corridor [england, india, japan, italy]
+[country] ; impressionism ; tea party ; neutral colors ; bunnies hops along a corridor [england, india, japan, italy]
 ```
 
 ## Consistent Prompts
