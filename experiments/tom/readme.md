@@ -147,7 +147,12 @@ Straight-on frontal view of Tom, facing the camera
 - **temperature:** `1.0`
 
 ![](./img/018-tom-2945574601-1.png)
+![](./img/020-tom-2945574601-1.png)
 
+- **seed:**  `2945574602`
+- **temperature:** `0`
+
+![](./img/019-tom-2945574602-0.png)
 
 ### Batch 2 - Dalle
 
@@ -221,3 +226,235 @@ The depiction offers a straight and direct frontal view.
 
 ![](./img/008-tom-19018131991.png)
 
+---
+
+## Prompt 03
+
+
+```
+Cell shade animation illustration ;
+Portrait, centered full body view, one character. ;
+White blank background. ;
+neutral light. ;
+Tom Bombadil is a 32 year old man, light brown skin, an oval face, and a dimple on his left cheek. ;
+Tom Bombadil is standing up straight, holding a walking stick with his left hand, and his right in his pocket. ;
+Vibrant pastel colors. ;
+He has a prominent long white curly bushy beard (goes down to his chest). ;
+He has white short curly hair on his head with a slight wave. ;
+He's hazel eyes twinkle with mischief, and he has round ears. ;
+He Bombadil has a slim build with broad shoulders. ;
+He wears a velvet bright blue jacket, with silver embroidery on the cuffs, a woven green girdle, and soft leather breeches with stitched patterns ; 
+He is wearing bright yellow hiking boots, with worn soles. ;
+Tom has a short sword on the left side of his waiste, it is sheathed in brown leather. :
+Tom is wearing a forest green tall pointy hat (no buckle, brown band, adorned with a long white swan feather tucked in band). ;
+Straight-on frontal view of Tom, facing the camera
+```
+
+### 1832472839
+
+![](./img/021-tom-1832472839-0.png)
+
+### 2528843716
+
+![](./img/022-tom-2528843716-0.png)
+
+- **temperature:** `0`
+
+- **seed:**  `100`
+
+![](./img/023-tom-100-0.png)
+
+- **seed:**  `101`
+
+![](./img/024-tom-101-0.png)
+
+### 3435761167
+
+![](./img/025-tom-3435761167-0.png
+)
+### 1749285663
+
+![](./img/026-tom-1749285663-0.png
+)
+### 2350534332
+
+![](./img/027-tom-2350534332-0.png
+)
+### 3486225506
+
+![](./img/028-tom-3486225506-0.png)
+
+---
+
+### 4209913075
+
+![](./img/029-tom-4209913075-0.png)
+
+### 1850235299
+
+![](./img/030-tom-1850235299-0.png)
+
+### 2889018486
+
+![](./img/031-tom-2889018486-0.png)
+
+### 3198359656
+
+![](./img/032-tom-3198359656-0.png)
+
+### temperature `0.5`
+
+#### 1600510526
+
+![](./img/033-tom-1600510526-0_5.png)
+
+#### 910545144
+
+![](./img/034-tom-910545144-0_5.png)
+
+#### 3549291887
+
+![](./img/035-tom-3549291887-0_5.png)
+
+#### 1450966815
+
+![](./img/036-tom-1450966815-0_5.png)
+
+### 1450966815
+
+- **temperature:** `1`
+
+![](./img/037-tom-1450966815-1.png)
+
+- **temperature:** `0.5`
+
+![](./img/038-tom-1450966815-1.png)
+![](./img/039-tom-1450966815-1.png)
+![](./img/040-tom-1450966815-1.png)
+![](./img/041-tom-1450966815-1.png)
+![](./img/042-tom-1450966815-1.png)
+
+## Prompt 04
+
+```
+Cell shade animation illustration ;
+Portrait, full body view ;
+White blank background. ;
+neutral light. ;
+Tom Bombadil is a 32 year old man, brown skin, an oval face, and a dimple on his left cheek. ;
+Tom is standing up straight, holding a walking stick with his left hand, and his right in his pocket. ;
+Vibrant pastel colors. ;
+He has a prominent long white curly bushy beard (goes down to his chest). ;
+He has white short curly hair on his head with a slight wave. ;
+He's hazel eyes twinkle with mischief, and he has round ears. ;
+Tom is wearing a forest green tall pointy hat (no buckle, brown band, adorned with a long white swan feather tucked in band). ;
+He Bombadil has a slim build with broad shoulders. ;
+He wears a velvet bright blue jacket, a woven green girdle, and soft leather breeches with stitched patterns ; 
+He is wearing bright yellow hiking boots, with worn soles. ;
+Tom has a short sword on the left side of his waiste, it is sheathed in brown leather. ;
+Straight-on frontal view of Tom, facing the camera
+```
+
+### 3654831925
+
+![](./img/043-tom-3654831925-1.png)
+
+
+### 2762251571
+
+![](./img/044-tom-2762251571-1.png)
+
+### 531452920
+
+![](./img/045-tom-531452920-1.png)
+
+### 928823261
+
+![](./img/046-tom-928823261-1.png)
+
+### 3995150956
+
+![](./img/047-tom-3995150956-1.png)
+
+### 2465879173
+
+![](./img/049-tom-2465879173-1.png)
+
+### 3913947033
+
+![](./img/050-tom-3913947033-1.png)
+
+### 3961397825
+
+![](./img/051-tom-3961397825-1.png)
+
+### 4102277608
+
+![](./img/048-tom-4102277608-1.png)
+
+#### Prompt Update
+
+```
+Cell shade animation illustration ;
+Portrait of entire body ;
+White blank background. ;
+neutral light. ;
+Tom Bombadil is a 32 year old man, brown skin, an oval face, round eyes, and a dimple on his left cheek. ;
+Tom is standing up straight, holding a wooden staff with his left hand, and his right in his pocket. ;
+Vibrant pastel colors. ;
+He has a prominent long white curly bushy beard (goes down to his chest). ;
+He has short white curly hair with a slight wave. ;
+He has hazel eyes, and round ears. ;
+Tom is wearing a tall forest-green pointy hat (no buckle, brown band, adorned with a long white swan feather tucked in band). ;
+He wears a velvet bright blue jacket, a woven green girdle, and soft leather breeches with stitched patterns ; 
+He is wearing bright yellow hiking boots, with worn soles. ;
+Tom has a slim build with broad shoulders. ;
+Tom has a short sword on the left side of his waiste, it is sheathed in brown leather. ;
+Straight-on view of Tom's entire body, facing the camera directly
+```
+
+![](./img/048-tom-4102277608-0.png)
+
+```
+Cell shade animation illustration ;
+Portrait of entire body ;
+White blank background. ;
+neutral light. ;
+Tom Bombadil is a 32 year old man, brown skin, an oval face, round eyes, and a dimple on his left cheek. ;
+Tom is standing up straight, holding a wooden staff with his left hand, and his right in his pocket. ;
+He is smiling with joy. ;
+Vibrant pastel colors. ;
+He has a prominent long white curly bushy beard (goes down to his chest). ;
+He has short white curly hair with a slight wave. ;
+He has hazel eyes, and round ears. ;
+Tom is wearing a tall forest-green pointy hat (no buckle, brown band, adorned with a long white swan feather tucked in band). ;
+He is wearing a bright blue jacket, a woven green girdle, and soft leather breeches with stitched patterns ; 
+He is wearing bright yellow hiking boots, with worn soles. ;
+Tom has a slim build with broad shoulders. ;
+Tom has a short sword on the left side of his waiste, it is sheathed in brown leather. ;
+Straight-on view that captures Tom's entire body, he facing the camera directly
+```
+
+![](./img/048-tom-4102277608-0-1.png)
+
+```
+Cell shade animation illustration ;
+Portrait of entire body ;
+Gray blank background. ;
+neutral light. ;
+Tom Bombadil is a 32 year old man, brown skin, an oval face, round eyes, and a dimple on his left cheek. ;
+Tom is standing up straight, holding a long silver sword with his left hand, and his right in his pocket. ;
+He is smiling with joy. ;
+Vibrant pastel colors. ;
+He has a prominent long white curly bushy beard (goes down to his chest). ;
+He has short white curly hair with a slight wave. ;
+He has hazel eyes, and round ears. ;
+Tom is wearing a tall green pointy hat (with no buckle), brown band, adorned with a long white swan feather tucked in band. ;
+He is wearing a dark blue jacket, a woven green girdle, and leather breeches; 
+He is wearing bright yellow boots. ;
+Tom has a slim build with broad shoulders. ;
+Tom has a short sword on the left side of his waiste, it is sheathed in brown leather. ;
+Straight-on view that captures Tom's entire body, he facing the camera directly
+```
+
+![](./img/048-tom-4102277608-0-2.png)
