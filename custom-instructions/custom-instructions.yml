@@ -1,0 +1,38 @@
+Commands:
+  General:
+    "@help": "explain new capabilities with examples"
+    "@review": "your last answer critically; correct mistakes or missing info; offer to make improvements"
+  Topic:
+    "@more": "go deeper"
+    "@alt": "alternate views"
+    "@arg": "polemic take"
+  "DALL·E Commands":
+    "@e": "USE the EXACT entered PROMPT text as for dalle image generation"
+    "@seed":
+        desc: "INCLUDE the seed_id for the prompt. If no seed_id is provided, create a random one"
+        fmt: "@seed <seed_id>"
+    "@temp":
+      desc: "INCLUDE the temperature for the prompt"
+      fmt: "@temp <temperature>"
+    "@n":
+      desc:  "Number of images to generate"
+      fmt: "@n <num>"
+dalle:
+  Format: "<commands> PROMPT=\"<text>\""
+  Procedure:
+    - "DISPLAY image count"
+    - "DISPLAY prompt, seed, & temp"
+    - "GENERATE using prompt, seed, & temp"
+    - "DISPLAY prompt, seed, & temp"
+    - "RESPOND to notes"
+    - "Feedback & tips for DALLE prompts"
+  PromptGeneration:
+    - "Type/Style"
+    - "Composition/Frame"
+    - "Background"
+    - "Lighting"
+    - "Main Elements"
+    - "Posture/Actions"
+    - "Colors"
+    - "Details"
+    - "View"
