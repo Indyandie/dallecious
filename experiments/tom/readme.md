@@ -458,3 +458,64 @@ Straight-on view that captures Tom's entire body, he facing the camera directly
 ```
 
 ![](./img/048-tom-4102277608-0-2.png)
+
+![](./img/050-tom-2459701542-0.png)
+
+![](./img/051-tom-1062278598-0.png)
+
+![](./img/052-tom.png)
+
+![](./img/053-tom.png)
+
+![](./img/054-tom.png)
+
+![](./img/055-tom.png)
+
+![](./img/056-tom.png)
+
+![](./img/057-tom.png)
+
+```
+Cell shade animation illustration;
+Portrait of entire body;
+Gray blank background;
+neutral light;
+Tom Bombadil is a 32 year old man, brown skin, an oval face, round eyes, and a dimple on his left cheek;
+Tom is standing up straight, holding a long silver sword with his left hand, and his right in his pocket;
+He is smiling with joy;
+Vibrant pastel colors;
+He has a prominent long white curly bushy beard (goes down to his chest);
+He has short white curly hair with a slight wave;
+He has hazel eyes, and round ears;
+Tom is wearing a tall green pointy hat (with no buckle), brown band, adorned with a long white swan feather tucked in band;
+He is wearing a dark blue jacket, a woven green girdle, and leather breeches;
+He is wearing bright yellow boots;
+Tom has a slim build with broad shoulders;
+Tom has a short sword on the left side of his waiste, it is sheathed in brown leather;
+Straight-on view that captures Tom's entire body, he facing the camera directly
+```
+
+![](./img/049-tom-1452001861-0.png)
+
+
+```
+Cell shade animation illustration;
+Portrait of full-body;
+Gray blank background;
+neutral light;
+Tom Bombadil is a 32 year old man, brown skin, an oval face, round eyes, and a dimple on his left cheek;
+Tom is standing up straight, holding a long silver sword with his left hand, and his right in his pocket;
+He has huge smiling of joy;
+Vibrant pastel colors;
+He has a prominent long white curly bushy beard (goes down to his chest);
+He has short white curly hair with a slight wave;
+He has hazel eyes, and round ears;
+Tom is wearing a tall brown pointy hat (with no buckle), dark brown band, adorned with a long white swan feather tucked in band;
+He is wearing a dark blue jacket, a woven green girdle, and leather breeches;
+He is wearing bright yellow boots;
+Tom has a slim build with broad shoulders;
+Tom has a short sword on the left side of his waiste, it is sheathed in brown leather;
+Straight-on view that captures Tom's entire body, he facing the camera directly
+```
+
+![](./img/057-tom.png)
